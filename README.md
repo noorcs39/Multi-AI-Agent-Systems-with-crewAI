@@ -1,10 +1,15 @@
 # Multi AI Agent Systems with crewAI
 
 **Offered by:** DeepLearning.AI
+
 **Instructor(s):** Featuring instructors including Andrew Ng
+
 **Platform:** DeepLearning.AI Courses
+
 **Purpose:** Practice-based learning
+
 **Created by:** Noor Uddin
+
 **Contact:** [noor.cs2@yahoo.com](mailto:noor.cs2@yahoo.com)
 
 > **Note:** This repository is created for practice and educational purposes only. It includes structured notes, summaries, and future code snippets derived from the "Multi AI Agent Systems with crewAI" course by DeepLearning.AI.
